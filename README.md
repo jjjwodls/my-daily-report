@@ -1,24 +1,10 @@
-# daily_report
+# 나의 하루 작성기!
 
-## Project setup
 ```
-npm install
-```
+현재 설정 파일들은 제거 후 github에 올라가므로 별도의 설정이 필요합니다.
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+firebase , googleLogin 관련 설정 파일들은 올라가지 않습니다.
 
-### Compiles and minifies for production
-```
-npm run build
-```
+그리고 실제 구동과 관련없는 공부, 예제소스들도 함께 포함되어 있습니다.
 
-### Lints and fixes files
 ```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
